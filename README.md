@@ -57,3 +57,34 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Estructura
+
+project root
+├── src
+│ ├── app
+│ │ ├── core
+│ │ ├── services
+│ │ ├── shared
+│ │ ├── components
+│ │ ├── security
+│ │ ├── forms
+│ │ └── app.component.ts|html|css|spec.ts
+│ │ └── app.config.ts
+│ │ └── app.routes.ts
+│ └── main.ts
+│ └── index.html
+│ └── …
+├── public
+│ └── images
+└── node_modules/…
+└── …
+
+## Recursos
+
+https://angular.dev/style-guide
+https://material.angular.io/cdk/categories
+https://tailwindui.com/
+https://tailwindcss.com/docs/guides/angular
+https://atlassian.design/resources/logo-library
+https://undraw.co/illustrations
