@@ -65,7 +65,7 @@ project root
 │ ├── app
 │ │ ├── core
 │ │ ├── services
-│ │ ├── shared
+│ │ ├── common
 │ │ ├── components
 │ │ ├── security
 │ │ ├── forms
